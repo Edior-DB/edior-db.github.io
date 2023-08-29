@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Conspects for Chemistry",
+    "description": "",
+    "home_page_url": "https://edior-db.github.io",
+    "feed_url": "https://edior-db.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "The Delocalized Bond"
+    },
+    "items": [
+    ]
+}
